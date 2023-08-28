@@ -1,6 +1,6 @@
 # IBM Full Stack Software Developer Professional Certificate
 
-![Certificate Badge](certificate_badge.jpg)
+![Certificate Badge](IBMFullStackSoftwareDeveloper.png)
 
 ## My Full Stack Journey: From Novice to Proficient Developer
 
@@ -8,7 +8,7 @@ I'm thrilled to share my incredible journey of completing the **IBM Full Stack S
 
 ## Embracing the Intensive Learning Experience
 
-My experience with this certificate has been nothing short of intensive and rewarding. I dedicated myself to approximately 10 hours a week, navigating through 12 challenging courses covering various topics. Each class brought unique challenges, from cloud computing and web development to microservices and containers, pushing me to grow technically and creatively.
+My experience with this certificate has been nothing short of intensive and rewarding. I dedicated approximately 10 hours a week, navigating through 12 challenging courses covering various topics. Each class brought unique challenges, from cloud computing and web development to microservices and containers, pushing me to grow technically and creatively.
 
 ## Mastering a Diverse Skill Set
 
